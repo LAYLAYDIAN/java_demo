@@ -10,7 +10,7 @@ public class CpuFactory {
             cpu = new IntelCpu(755);
         }else if(type == 2){
             cpu = new AmdCpu(938);
-        }
-        return cpu;
+        }return cpu;
+
     }
 }

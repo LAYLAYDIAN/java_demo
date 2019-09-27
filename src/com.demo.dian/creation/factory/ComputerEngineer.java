@@ -1,6 +1,7 @@
 package com.demo.dian.creation.factory;
 
 /**
+ * 装机工程师对象
  * Created by DIAN on 2019/9/20.
  */
 public class ComputerEngineer {

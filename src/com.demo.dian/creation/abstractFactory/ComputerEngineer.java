@@ -4,6 +4,7 @@ import com.demo.dian.creation.factory.Cpu;
 import com.demo.dian.creation.factory.Mainboard;
 
 /**
+ * 装机工程师对象
  * Created by DIAN on 2019/9/27.
  */
 public class ComputerEngineer {

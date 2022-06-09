@@ -14,7 +14,7 @@ import com.demo.dian.creation.abstractFactory.ComputerEngineer;
 public class Main {
     public static void main(String[] args) {
 
-        //工厂模式钉钉
+        //工厂模式
         //ComputerEngineer cf = new ComputerEngineer();
         //cf.makeComputer(1,1);
         //抽象工厂模式
